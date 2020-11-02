@@ -6,7 +6,7 @@ Bullet Time is a difficult but fair bullet hell that lets you slow time down.
 
 ### Installation Instructions
 
-Download the relevant release from the `releases` folder. Bullet Time is currently available on Windows (32- and 64-bit) and MacOS.
+Download the relevant release from [this link](https://drive.google.com/drive/folders/1FVtLSkgG5ttE15msoUyCZKlYc5sGox40?usp=sharing). Bullet Time is currently available on Windows (32- and 64-bit) and MacOS.
 
 ### About
 
